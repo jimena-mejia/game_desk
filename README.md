@@ -1,6 +1,7 @@
 Game Desk – Catálogo de Ofertas de Videojuegos
 
-
+![Pantalla principal](img/pantalla_principal.png)  
+![Detalle de oferta](img/detalle_oferta.png)
 
 
 Game Desk es un proyecto desarrollado con **React + TypeScript + Vite** que muestra un catálogo de videojuegos en oferta. Su objetivo es presentar información clara y visual sobre descuentos, precios, formato (“físico” o “digital”) e imágenes de productos.
