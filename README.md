@@ -1,4 +1,12 @@
-Game Desk – Catálogo de Ofertas de Videojuegos
+# 🕹️ Game Desk  
+### Catálogo moderno de ofertas, precios y formatos de videojuegos
+![React](https://img.shields.io/badge/React-18.2-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-Bundler-purple?logo=vite)
+![Firebase](https://img.shields.io/badge/Firebase-Hosting-orange?logo=firebase)
+
+
+
 
 ![Pantalla principal](img/pantalla_principal.png) 
 ![Pantalla_principal2](img/pantalla_principal2.png)
@@ -6,16 +14,17 @@ Game Desk – Catálogo de Ofertas de Videojuegos
 
 
 
-Game Desk es un proyecto desarrollado con **React + TypeScript + Vite** que muestra un catálogo de videojuegos en oferta. Su objetivo es presentar información clara y visual sobre descuentos, precios, formato (“físico” o “digital”) e imágenes de productos.
+Game Desk es una aplicación web desarrollada con React, TypeScript y Vite que permite visualizar un catálogo organizado de videojuegos en oferta. 
+El sistema muestra precios, descuentos, formato (físico o digital) e imágenes de cada juego, ofreciendo una interfaz clara, moderna y fácil de navegar. 
+Este proyecto fue creado con fines académicos para demostrar el uso de tecnologías web modernas y buenas prácticas de desarrollo.
 
-Se desarrolló como parte de un proyecto académico utilizando tecnologías web modernas y herramientas necesarias para documentar un portafolio profesional en GitHub.
 
 🚀 Objetivo del Proyecto
 
 - Mostrar ofertas reales o simuladas de videojuegos en una aplicación web moderna.  
 - Practicar desarrollo con **React**, componentes, estados y renderizado dinámico.  
 - Utilizar herramientas del ecosistema moderno: React, TypeScript, Vite, Firebase (opcional).  
-- Crear un repositorio profesional con documentación clara.
+
 
 🧩 Tecnologías Utilizadas
 
@@ -24,7 +33,7 @@ Se desarrolló como parte de un proyecto académico utilizando tecnologías web 
 - TypeScript  
 - Vite  
 - CSS3 / estilos personalizados  
-- HTML (solo como punto de entrada vía index.html)
+- HTML 
 
 ### 🔹 Backend / Procesamiento  
 - Scripts en la carpeta `backend/`  
@@ -127,6 +136,14 @@ firebase deploy
 ```
 
 
-Jimena Mejía Víquez
-Proyecto académico – Instituto Tecnológico de Costa Rica (TEC)
-Año 2025
+## 👥 Créditos
+
+**Autor:** Britanny Alvarado, Jimena Mejía Víquez, Joan Cordero  
+**Curso:** Arquitectura de Computadores  
+**Profesor:** Jorge Alfaro Velasco  
+**Institución:** Instituto Tecnológico de Costa Rica (TEC)  
+**Año:** 2025
+
+## 📄 Licencia
+Este proyecto se distribuye exclusivamente con fines académicos y educativos.
+
