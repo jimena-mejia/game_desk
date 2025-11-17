@@ -1,6 +1,7 @@
 Game Desk – Catálogo de Ofertas de Videojuegos
 
-![Pantalla principal](img/pantalla_principal.png)  
+![Pantalla principal](img/pantalla_principal.png)
+![Pantalla_principal2](img/pantalla_principal2.png)
 ![Detalle de oferta](img/detalle_oferta.png)
 
 
